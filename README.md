@@ -1,4 +1,4 @@
-# Predictive Linear Regression Model Pipeline
+# Predictive Linear Regression Model Pipeline meow
 
 ## Overview
 
@@ -103,7 +103,7 @@ git clone https://github.com/hashnadeem/predictive-linear-regression-pipeline.gi
 pip install -r requirements.txt
 ```
 
-3. Open the notebook
+3. Open the notebook//
 
 ```
 Predictive_Linear_Regression_Pipeline.ipynb
